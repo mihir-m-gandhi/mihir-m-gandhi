@@ -1,19 +1,85 @@
-### Hi there 👋
+<p align="center">
+  <img src="" width="200px">
+  <br>
+  <samp>
+    <br>
+    👋 Hi I'm <strong>Mihir Gandhi</strong>, a Computer Engineer with excellent academic background and diverse skillset. Currently, I am the working as a Dy. Manager in 5G Tech R&D at Reliance Jio. My interests are aligned with Compter Vision and Deep Learning. I am experienced in working with Python, Computer Vision, Android, Flutter, Firebase.
+    <br><br>
+  </samp>
+</p>
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=mihir-m-gandhi" />
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][Gmail] 
+
+<br />
+<hr />
+
+<h2>📊 Github Stats</h2>
+
+<a href="https://github.com/mihir-m-gandhi">
+<img src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Mihir Gandhi | Stats" />
+</a> <a href="https://github.com/mihir-m-gandhi">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Mihir Gandhi | Top Languages" />
+</a>
+<br>
 
 
-<!--
-**mihir-m-gandhi/mihir-m-gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=mihir-m-gandhi&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+<img src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
+<a href="https://github.com/mihir-m-gandhi">
+<img src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
+</a>
+</p>
+
+<br />
+<hr />
+
+### 👨‍💻 Technologies Used
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/keygx/Go-gopher-Vector/blob/master/svg/gopher01c.svg" alt="golang" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
+
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+</p>
+
+
+[Linkedin]: https://www.linkedin.com/in/mihir-m-gandhi/
+[Gmail]: mailto:mihir.mg@somaiya.edu.com
+[Instagram]: https://www.instagram.com/mihir.mg/
