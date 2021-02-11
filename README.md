@@ -68,7 +68,6 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
@@ -99,6 +98,7 @@
     https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
     https://www.vectorlogo.zone/logos/php/php-icon.svg
     Matlab
+    C
     C++
     Solidity 
     SQL
