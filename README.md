@@ -56,6 +56,7 @@
 </a>
 </p>
 
+<br />
 <hr />
 
 ### 👨‍💻 Technologies Used
