@@ -29,7 +29,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Mihir Gandhi | Top Languages" / />
 </a>
 
-<br/>
+<br />
+<br />
 
 <a href="https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Adaptive-Traffic-Signal-Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
