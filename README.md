@@ -47,7 +47,7 @@
 <img src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi?color=black&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
 <a href="https://github.com/mihir-m-gandhi">
-<img src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
+<img src="https://badges.pufler.dev/commits/monthly/arghyadeep99?color=blue" />
 </a>
 </p>
 
