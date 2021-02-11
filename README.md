@@ -11,14 +11,8 @@
 <p align="center" text-align="center">
 <b><i>Let's connect! Find me on the web.</i></b>  
 
-<p align="center">
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
-
-</p>
-
-[<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Gmail]
-[<img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />][Instagram]
 
 </p>
 
