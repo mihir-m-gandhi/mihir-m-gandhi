@@ -21,6 +21,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
+  
 <a href="https://github.com/mihir-m-gandhi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir Gandhi | Stats" />
 </a>
@@ -42,6 +44,8 @@
 
 <br />
 <br />
+
+</p>
 
 <p align=center>
 <img height="20" src="https://badges.pufler.dev/visits/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?color=black&logo=github" />
