@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-<p align="center">
+<p align="center" text-align="center">
 <b><i>Let's connect! Find me on the web.</i></b>  
 
 <p align="center">
