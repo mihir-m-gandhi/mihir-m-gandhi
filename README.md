@@ -47,7 +47,6 @@
 </p>
 
 <br />
-<br />
 
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?color=black&logo=github" />
