@@ -9,11 +9,11 @@
 </p>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
-
+<p align="center">
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][Gmail] 
-
+</p>
 </p>
 
 <br />
@@ -40,18 +40,18 @@
 
 <a href="https://github.com/mihir-m-gandhi/https://github.com/mihir-m-gandhi/Sign-Language-Recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Sign-Language-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<br />
-<br />
+</a>  
 
 </p>
 
+<br />
+<br />
+
 <p align=center>
-<img height="20" src="https://badges.pufler.dev/visits/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?color=black&logo=github" />
-<img height="20" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
+<img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
 <a href="https://github.com/mihir-m-gandhi">
-<img height="20" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
+<img height="25" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
 </a>
 </p>
 
