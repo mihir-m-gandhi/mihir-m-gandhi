@@ -12,9 +12,18 @@
 <b><i>Let's connect! Find me on the web.</i></b>  
 
 
-<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[Linkedin]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
+[<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Gmail]
+[<img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />][Instagram]
 
 </p>
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/mihir-m-gandhi/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white""></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/mihir.mg/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:mihir.mg@somaiya.edu.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
 
 <br />
 <hr />
