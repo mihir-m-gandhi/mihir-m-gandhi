@@ -66,21 +66,16 @@
 ### 👨‍💻 Technologies Used
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://github.com/keygx/Go-gopher-Vector/blob/master/svg/gopher01c.svg" alt="golang" width="40" height="40"/>
 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
+  <img src="https://logodix.com/logo/2058787.png" alt="Pygame" width="40" height="40"/>  
 
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
@@ -92,9 +87,30 @@
 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="css3" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  
+  <!-- 
+    https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
+    https://www.vectorlogo.zone/logos/php/php-icon.svg
+    Matlab
+    C++
+    Solidity 
+    SQL
+    ReactJS
+    Adobe XD
+    Selenium
+    Git
+    AWS
+    Truffle
+-->
+
+  
+  
 </p>
 
