@@ -12,7 +12,7 @@
 <b><i>Let's connect! Find me on the web.</i></b>  
 
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
+<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[Linkedin]
 
 </p>
 
