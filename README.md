@@ -44,10 +44,10 @@
 <br />
 
 <p align=center>
-<img height="30" src="https://badges.pufler.dev/visits/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?color=black&logo=github" />
-<img height="30" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
+<img height="20" src="https://badges.pufler.dev/visits/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?color=black&logo=github" />
+<img height="20" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
 <a href="https://github.com/mihir-m-gandhi">
-<img height="30" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
+<img height="20" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
 </a>
 </p>
 
