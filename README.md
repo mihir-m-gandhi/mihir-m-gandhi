@@ -14,37 +14,26 @@
 [<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][Gmail] 
 
-<br />
-<hr />
-
-<h2>📊 Github Stats</h2>
-
-<a href="https://github.com/mihir-m-gandhi">
-<img src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Mihir Gandhi | Stats" />
-</a> <a href="https://github.com/mihir-m-gandhi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Mihir Gandhi | Top Languages" />
-</a>
-<br>
-
-
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=mihir-m-gandhi&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
+<br />
+<hr />
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mihir-m-gandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir Gandhi | Stats" />
 </a>
+
 <a href="https://github.com/mihir-m-gandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Mihir Gandhi | Top Languages" / />
 </a>
+
+<br/>
 
 <a href="https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Adaptive-Traffic-Signal-Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/mihir-m-gandhi/https://github.com/mihir-m-gandhi/Sign-Language-Recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Sign-Language-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
