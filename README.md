@@ -31,6 +31,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mihir-m-gandhi&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/mihir-m-gandhi/mihir-m-gandhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/mihir-m-gandhi/mihir-m-gandhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir's GitHub Stats" />
+</a>
+
+<a href="https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Adaptive-Traffic-Signal-Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/mihir-m-gandhi/https://github.com/mihir-m-gandhi/Sign-Language-Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Sign-Language-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <br />
 
 <p align=center>
