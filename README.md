@@ -115,32 +115,33 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 ### 👨‍💻 Languages and Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" /> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python" /> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python" />
  
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="Tensorflow" /> &nbsp;&nbsp;
-  <img src="https://logodix.com/logo/2058787.png" alt="Pygame" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="Tensorflow" />
+  <img src="https://logodix.com/logo/2058787.png" alt="Pygame" width="40" height="40" title="Pygame" />
 
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django" /> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase" />
 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" title="Docker" />
 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" title="Kubernetes" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40" title="Google Cloud" />
 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
+  <img src="" alt="css3" width="40" height="40" title="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" title="Javascript" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40" title="Node.JS" />
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" title="Angular" />
 
-  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
   
   <!-- 
     https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
