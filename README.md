@@ -117,6 +117,9 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python" />
+  <img src="" alt="C" width="40" height="40" title="C"/>
+  <img src="" alt="C++" width="40" height="40" title="C++"/>
+
  
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="Tensorflow" />
   <img src="https://logodix.com/logo/2058787.png" alt="Pygame" width="40" height="40" title="Pygame" />
@@ -134,8 +137,9 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
-  <img src="" alt="css3" width="40" height="40" title="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" title="Javascript" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" title="PHP"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40" title="Node.JS" />
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" title="Angular" />
 
@@ -143,12 +147,13 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
   
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
+  
   <!-- 
-    PHP
-    Bootstrap
     Matlab
-    C
-    C++
+    
     Solidity 
     SQL
     ReactJS
