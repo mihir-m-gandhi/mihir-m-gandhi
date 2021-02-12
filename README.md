@@ -264,7 +264,6 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 </p>
 
 <br />
-<hr />
 
 ---
 ### 📺 Latest YouTube Videos
