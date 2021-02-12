@@ -186,6 +186,27 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 </p>
 
 ---
+### 📺 Latest YouTube Videos
+
+<table>
+  <tbody>
+    <!-- YOUTUBE:START -->
+    <tr>
+      <td><a href="https://youtu.be/OssY5pzOyo0"><img width="140px" src="https://i.ytimg.com/vi/OssY5pzOyo0/mqdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/OssY5pzOyo0">Smart Control of Traffic Light System using Artificial Intelligence</a><br/>May 25, 2020</td>
+    </tr>
+    <tr>
+      <td><a href="https://youtu.be/kDrJEgj7FdY"><img width="140px" src="https://i.ytimg.com/vi/kDrJEgj7FdY/mqdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/kDrJEgj7FdY">Medicyl - Decentralized Health Record Management (SIH 2020)</a><br/>Feb 4, 2021</td>
+    </tr>
+  <!-- YOUTUBE:END -->
+  </tbody>
+</table>
+
+
+<a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1"><img height="30" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+
+---
 ### &#x1f4c8; GitHub Stats
 
 <p align="center">
@@ -220,26 +241,3 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 <img height="25" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
 </a>
 </p>
-
-<br />
-
----
-### 📺 Latest YouTube Videos
-
-<table>
-  <tbody>
-    <!-- YOUTUBE:START -->
-    <tr>
-      <td><a href="https://youtu.be/OssY5pzOyo0"><img width="140px" src="https://i.ytimg.com/vi/OssY5pzOyo0/mqdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/OssY5pzOyo0">Smart Control of Traffic Light System using Artificial Intelligence</a><br/>May 25, 2020</td>
-    </tr>
-    <tr>
-      <td><a href="https://youtu.be/kDrJEgj7FdY"><img width="140px" src="https://i.ytimg.com/vi/kDrJEgj7FdY/mqdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/kDrJEgj7FdY">Medicyl - Decentralized Health Record Management (SIH 2020)</a><br/>Feb 4, 2021</td>
-    </tr>
-  <!-- YOUTUBE:END -->
-  </tbody>
-</table>
-
-
-<a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1"><img height="30" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
