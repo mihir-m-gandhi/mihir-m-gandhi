@@ -250,7 +250,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
   </tbody>
 </table>
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+[<img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white />](https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1)
 
 
 
