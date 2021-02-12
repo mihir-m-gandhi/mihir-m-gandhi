@@ -185,6 +185,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 </p>
 
+<br />
 ---
 ### 📺 Latest YouTube Videos
 
@@ -205,6 +206,8 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 
 <a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1"><img height="30" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+
+<br />
 
 ---
 ### &#x1f4c8; GitHub Stats
