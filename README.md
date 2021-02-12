@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="" width="200px">
   <br>
   <samp>
     <br>
