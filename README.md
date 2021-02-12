@@ -158,16 +158,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     AWS
     Truffle
 -->
-
-  
-  
-</p>
-
-
----
-
-### Languages and Tools 🛠 
-
+<!--
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -186,32 +177,13 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
-
-
-
-## OS & Tools
-
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
 
-![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
-![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
-![Rstudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white)
+--> 
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
-![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
-
-![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
-![Pelican](https://img.shields.io/badge/-Pelican-14A0C4?logo=Pelican&style=for-the-badge&logoColor=white)
-![jinja](https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
+</p>
 
 ---
 ### &#x1f4c8; GitHub Stats
