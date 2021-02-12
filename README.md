@@ -112,43 +112,6 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 <br />
 <hr />
 
-## &#x1f4c8; GitHub Stats
-
-<p align="center">
-  
-<a href="https://github.com/mihir-m-gandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir Gandhi | Stats" />
-</a>
-
-<a href="https://github.com/mihir-m-gandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Mihir Gandhi | Top Languages" / />
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Adaptive-Traffic-Signal-Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/mihir-m-gandhi/Sign-Language-Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Sign-Language-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
-</p>
-
-<br />
-
-<p align=center>
-<img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi?color=black&logo=github" />
-<img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
-<a href="https://github.com/mihir-m-gandhi">
-<img height="25" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
-</a>
-</p>
-
-<br />
-<hr />
 
 ### 👨‍💻 Technologies Used
 
@@ -229,6 +192,79 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+
+## Skills
+
+![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![perl](https://img.shields.io/badge/perl-★★☆-lightgrey?labelColor=39457E&logo=Perl&style=for-the-badge&logoColor=white)
+![R](https://img.shields.io/badge/R-★★☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)
+
+![bash](https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)
+
+![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)
+
+![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)
+![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
+
+## OS & Tools
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+
+![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
+![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
+![Rstudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
+
+![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
+![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
+![Pelican](https://img.shields.io/badge/-Pelican-14A0C4?logo=Pelican&style=for-the-badge&logoColor=white)
+![jinja](https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
+
+---
+### &#x1f4c8; GitHub Stats
+
+<p align="center">
+  
+<a href="https://github.com/mihir-m-gandhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir Gandhi | Stats" />
+</a>
+
+<a href="https://github.com/mihir-m-gandhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Mihir Gandhi | Top Languages" / />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Adaptive-Traffic-Signal-Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mihir-m-gandhi/Sign-Language-Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Sign-Language-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+</p>
+
+<br />
+
+<p align=center>
+<img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
+<a href="https://github.com/mihir-m-gandhi">
+<img height="25" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
+</a>
+</p>
+
+<br />
+<hr />
 
 ---
 ### 📺 Latest YouTube Videos
