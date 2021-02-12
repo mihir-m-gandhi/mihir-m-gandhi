@@ -231,8 +231,6 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 <br/>
 
 ---
-
-
 ## 📺 Latest YouTube Videos
 
 <table>
@@ -253,29 +251,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 <a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1"><img height="30" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
 
-
-
-**Computer Vision Projects**
-
-[![Hirechain](https://img.shields.io/badge/-🧬&nbsp;&nbsp;Hirechain-000000?style=flat)](https://github.com/adamalston/v2)
-[![E-Voting](https://img.shields.io/badge/-🦠&nbsp;E-voting-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Medicyl](https://img.shields.io/badge/-📰&nbsp;&nbsp;Medicyl-000000?style=flat)](https://github.com/adamalston/Summarizer)
-
-**Blockchain Projects**
-
-[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
-
-**Android Apps**
-
-[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
+---
 
 
 
