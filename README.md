@@ -144,8 +144,8 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
   
   <!-- 
-    https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg
-    https://www.vectorlogo.zone/logos/php/php-icon.svg
+    PHP
+    Bootstrap
     Matlab
     C
     C++
@@ -157,6 +157,15 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     Git
     AWS
     Truffle
+    Git
+    Github
+    Gitlab
+    VS Code
+    Windows
+    Linux
+    Mac OS
+    Blockchain
+
 -->
 <!--
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
