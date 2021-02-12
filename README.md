@@ -146,10 +146,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
   <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
+ 
   
   <!-- 
     Matlab
