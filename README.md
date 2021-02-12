@@ -61,6 +61,19 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 
 
+### Hey there, I'm Jaineel - aka [ye11ow_flash][website] 👋
+
+## I'm a Student, Developer, and Engineer!
+- 🔭 I’m currently working on an chrome extension: [TabOverflow][tab_website]!
+- 💻 I’m currently employeed at Reliance Jio 📲 as Software Engineer 💺
+- 👯 I’m open to collaborate with other developers
+- ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
+
+
+
+
+
+
 <p align="center">
 <b><i>Let's connect! Find me on the web.</i></b>  
 
