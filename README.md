@@ -113,7 +113,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 <hr />
 
 
-### 👨‍💻 Technologies Used
+### 👨‍💻 Languages and Tools
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
