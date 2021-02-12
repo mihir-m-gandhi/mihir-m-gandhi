@@ -94,7 +94,7 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 
 
-
+---
 <p align="center">
 <b><i>Let's connect! Find me on the web.</i></b>  
 
@@ -110,9 +110,8 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 </p>
 </p>
 <br />
-<hr />
 
-
+---
 ### 👨‍💻 Languages and Tools
 
 <p align="left">
