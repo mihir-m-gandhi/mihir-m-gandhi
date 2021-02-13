@@ -36,82 +36,50 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python" />
-  <img src="" alt="C" width="40" height="40" title="C"/>
-  <img src="" alt="C++" width="40" height="40" title="C++"/>
-
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
+  <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="C++" width="40" height="40" title="C++"/>
  
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="Tensorflow" />
   <img src="https://logodix.com/logo/2058787.png" alt="Pygame" width="40" height="40" title="Pygame" />
-
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase" />
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" title="Docker" />
-
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" title="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40" title="Google Cloud" />
-
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku" />
+  
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
+  
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
+  <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="heroku" width="40" height="40" title="CSS3" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" title="Javascript" />
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" title="PHP"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40" title="Node.JS" />
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" title="Angular" />
-
-  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React JS" width="40" height="40" title="React JS" />
  
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase" />
+
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" title="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40" title="GitLab" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" title="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" title="Kubernetes" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40" title="Google Cloud" />
   
-  <!-- 
-    Matlab
-    
-    Solidity 
-    SQL
-    ReactJS
-    Adobe XD
-    Selenium
-    Git
-    AWS
-    Truffle
-    Git
-    Github
-    Gitlab
-    VS Code
-    Windows
-    Linux
-    Mac OS
-    Blockchain
+  <img src="https://miro.medium.com/max/4000/0*yqbRInqX0ZRUlVS0" alt="solidity" width="40" height="40" title="Solidity" />
+  <img src="https://truffleframework.com/img/favicons/truffle-share.png" alt="truffle" width="40" height="40" title="Truffle" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png" alt="metamask" width="40" height="40" title="Metamask" />
 
--->
-<!--
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
-
---> 
+  <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="adobe xd" width="40" height="40" title="Adobe XD" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40" title="Visual Studio Code" />
+  <img src="https://img.icons8.com/ios/452/selenium-test-automation.png" alt="selenium" width="40" height="40" title="Selenium" />
+  
+  <img src="https://icons-for-free.com/iconfiles/png/512/desktop+microsoft+os+screen+technology+windows+icon-1320192780138264654.png" alt="windows" width="40" height="40" title="Windows OS" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title="Linux OS" />
+  <img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png" alt="mac" width="40" height="40" title="macOS" />
 
 </p>
 
