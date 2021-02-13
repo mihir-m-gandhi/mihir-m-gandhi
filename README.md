@@ -2,15 +2,15 @@
 
 ### 📖 About me
 * 🎓  I am a Computer Engineer with excellent academic background and diverse skillset
-* 👨‍💻   Currently working working as a Dy. Manager in **5G Tech R&D at Reliance Jio**
-* Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
+* 🏢  Currently working as Dy. Manager in **5G Tech R&D at Reliance Jio**
+* 👨‍💻  Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
 * 📄 Check out my [Resume]()
-* ⚡ Fun fact: I love Photography, Cricket, and Formula 1
+* 📷 I love Photography, Cricket, and Formula 1
 
 ### 🏆 Recent Achievements
 
 * 📃 [Research Paper](https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on the project [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)**
-* [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) showcased at a **national level project competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
+* [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
 
 <br />
 
