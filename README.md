@@ -1,4 +1,4 @@
-<img src="./mihir.jpg" height="240" width="480"> 
+<img src="./mihir.jpg"> 
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
