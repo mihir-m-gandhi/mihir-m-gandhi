@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mihir.jpg" width="400px"> 
+  <img src="./mihir.jpg" width="600px"> 
 </p>
 
 ### 📖 &nbsp; About me
