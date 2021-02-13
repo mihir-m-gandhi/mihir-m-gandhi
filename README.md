@@ -1,4 +1,4 @@
-<img align="center" src="./mihir.jpg"> 
+<h2 align="center">Hi, I'm Mihir Gandhi 👋</h2>
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
@@ -110,10 +110,6 @@
   
 <a href="https://github.com/mihir-m-gandhi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir Gandhi | Stats" />
-</a>
-
-<a href="https://github.com/mihir-m-gandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-m-gandhi&hide=html,css,tsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Mihir Gandhi | Top Languages" / />
 </a>
 
 <br />
