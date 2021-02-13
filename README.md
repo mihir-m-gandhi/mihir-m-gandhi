@@ -1,4 +1,6 @@
-<img align="center" src="./mihir.jpg"> 
+<p align="center">
+  <img src="./mihir.jpg" width="240px"> 
+</p>
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
