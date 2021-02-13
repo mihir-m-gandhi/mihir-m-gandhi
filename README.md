@@ -10,59 +10,20 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-
-
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
-
-- I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and Space and watch a lot Sci-Fi Movies🎬
-
-
-
-
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.com) 👋
-
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips ) and contributing to open source.
-
-
-- 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
-- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/durgeshsamariya/100DaysofMachineLearning) and [Data Science](https://github.com/durgeshsamariya/100DaysofDataScience).
-
-**My Reseach Interest**:
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
-
-
-
-**Recent Update**:
-- **July 2020**: Our paper [A new effective and efficient measure for outlying aspect mining](http://wasp.cs.vu.nl/WISE2020/accept.html) has been accepted at the 21st International Conference on Web Information Systems Engineering 2020 ([WISE 2020](http://wasp.cs.vu.nl/WISE2020/)).
-
-
-
-
-
-### Hey there, I'm Jaineel - aka [ye11ow_flash][website] 👋
-
 ## I'm a Student, Developer, and Engineer!
 - 🔭 I’m currently working on an chrome extension: [TabOverflow][tab_website]!
 - 💻 I’m currently employeed at Reliance Jio 📲 as Software Engineer 💺
 - 👯 I’m open to collaborate with other developers
 - ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
+
+- 🔭 I’m currently working on NLP Project
+- 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
+- I enjoy working on:
+  - 🖼 Computer Vision
+  - 🤖 Blockchain
+  - 🛠 Android Apps
+- 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and Space and watch a lot Sci-Fi Movies🎬
 
 
 
