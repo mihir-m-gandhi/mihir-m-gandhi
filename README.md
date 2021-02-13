@@ -1,65 +1,24 @@
-h2 align="center">Hi 👋, I'm Nikita</h2>
-<h3 align="center">A postgraduate student, Java developer and longlife learner</h3>
+h2 align="center">Hi 👋, I'm Mihir Gandhi</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
+### 📖 About me
+* 🎓 a Computer Engineer with excellent academic background and diverse skillset
+* 👨‍💻  Currently working working as a Dy. Manager in **5G Tech R&D at Reliance Jio**
+* I’m currently learning Flutter App Development
+* Research Interests:
+  - 🖼 Computer Vision
+  - 🖼 Deep Learning
+  - 🤖 Blockchain
+* 📚 Lifelong learner
+* 👯 I’m open to collaborate with other developers
+* 📄 Check out my [Resume]()
+* ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
 
-<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-  <a href="https://t.me/n_rusetskii">
-  <img align="left" alt="Nikita's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://fb.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://instagram.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
-<br />
-### I am...
-* 🎓 A postgraduate student interested in `machine learning`, `smart microgrids`, `optimization algorithms`
-* 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
-* 🎓 Exchange student of Inha University (fall semester, 2019)
-* 👨‍💻 Junior software developer currently improving my `Java`
-* 📚 Longlife learner and daydreamer
-* 🐧 Linux fan! 
-* 📄 Get to know about my experiences in [CV](https://cv.rusetskii.dev/)
-
-### Recent achievements 🏆
+### Recent Achievements 🏆
 
 * 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
-
-
-
-<p align="center">
-  <br>
-  <samp>
-    <br>
-    👋 Hi I'm <strong>Mihir Gandhi</strong>, a Computer Engineer with excellent academic background and diverse skillset. Currently, I am the working as a Dy. Manager in 5G Tech R&D at Reliance Jio. My interests are aligned with Compter Vision and Deep Learning. I am experienced in working with Python, Computer Vision, Android, Flutter, Firebase.
-    I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society.
-
-  </samp>
-</p>
-
-## 📖 About me
-
-## I'm a Student, Developer, and Engineer!
-- 🔭 I’m currently working on an chrome extension: [TabOverflow][tab_website]!
-- 💻 I’m currently employeed at Reliance Jio 📲 as Software Engineer 💺
-- 👯 I’m open to collaborate with other developers
-- ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
-
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
-- I enjoy working on:
-  - 🖼 Computer Vision
-  - 🤖 Blockchain
-  - 🛠 Android Apps
-- 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and Space and watch a lot Sci-Fi Movies🎬
-
-
-
-
 
 ---
 <p align="center">
