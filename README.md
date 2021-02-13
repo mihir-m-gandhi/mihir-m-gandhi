@@ -1,10 +1,10 @@
-<h2 align="center">Hi, I'm Mihir Gandhi 👋</h2> 
+<img src="./mihir.jpg" height="240" width="480"> 
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
 * 🏢  &nbsp; Currently working as Dy. Manager in **5G Tech R&D at Reliance Jio**
 * 👨‍💻 &nbsp; Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
-* 📄 &nbsp; Check out my [Resume]()
+* 📄 &nbsp; Check out my [Resume](./resume.pdf)
 * 📷 &nbsp; I love Photography, Cricket, and Formula 1
 
 ### 🏆 &nbsp; Recent Achievements
