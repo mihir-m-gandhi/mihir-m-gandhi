@@ -28,7 +28,6 @@
 
 </p>
 </p>
-<br />
 
 ---
 ### 👨‍💻 &nbsp; Languages and Tools
@@ -83,8 +82,6 @@
 
 </p>
 
-<br />
-
 ---
 ### 📺 &nbsp; Latest YouTube Videos
 
@@ -105,8 +102,6 @@
 
 
 <a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1"><img height="30" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
-
-<br />
 
 ---
 ### &#x1f4c8; &nbsp; GitHub Stats
