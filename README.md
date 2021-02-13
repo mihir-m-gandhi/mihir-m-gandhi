@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Mihir Gandhi</h2>
+<h2 align="center">Hi, I'm Mihir Gandhi</h2> 👋,
 
 ### 📖 About me
 * 🎓  I am a Computer Engineer with excellent academic background and diverse skillset
@@ -8,12 +8,12 @@
   - `Deep Learning`
   - `Blockchain`
 * 📄 Check out my [Resume]()
-* ⚡ Fun fact: I love photography, cricket, and Formula 1
+* ⚡ Fun fact: I love Photography, Cricket, and Formula 1
 
 ### 🏆 Recent Achievements
 
-* 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
-* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
+* 📃 [Research Paper]((https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on the project [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020]**(http://www.icraie.poornima.org/).
+* [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) showcased at a **national level project competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/). 
 
 <br />
 
