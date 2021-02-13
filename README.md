@@ -1,17 +1,14 @@
 <h2 align="center">Hi 👋, I'm Mihir Gandhi</h2>
 
 ### 📖 About me
-* 🎓 a Computer Engineer with excellent academic background and diverse skillset
-* 👨‍💻  Currently working working as a Dy. Manager in **5G Tech R&D at Reliance Jio**
-* I’m currently learning Flutter App Development
+* 🎓  I am a Computer Engineer with excellent academic background and diverse skillset
+* 👨‍💻   Currently working working as a Dy. Manager in **5G Tech R&D at Reliance Jio**
 * Research Interests:
-  - 🖼 Computer Vision
-  - 🖼 Deep Learning
-  - 🤖 Blockchain
-* 📚 Lifelong learner
-* 👯 I’m open to collaborate with other developers
+  - 🖼 `Computer Vision`
+  - 🖼 `Deep Learning`
+  - 🤖 `Blockchain`
 * 📄 Check out my [Resume]()
-* ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
+* ⚡ Fun fact: I love photography, cricket, and Formula 1
 
 ### 🏆 Recent Achievements
 
