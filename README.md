@@ -20,7 +20,6 @@
 
 - 🔭 I’m currently working on NLP Project
 - 🌱 I’m currently learning Java <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - I enjoy working on
   - 📊 Machine Learning & Data Science
@@ -28,7 +27,7 @@
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
 - 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">and watch a lot Sci-Fi Movies🎬
+- 🎉 Fun-Fact: I ❤️ Astrophysics and Space and watch a lot Sci-Fi Movies🎬
 
 
 
