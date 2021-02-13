@@ -86,7 +86,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 <br />
 
 ---
-### 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and Tools
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" />
@@ -173,7 +173,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 <br />
 
 ---
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <table>
   <tbody>
@@ -196,7 +196,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 <br />
 
 ---
-### &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <p align="center">
   
