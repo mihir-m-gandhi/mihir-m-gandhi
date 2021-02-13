@@ -4,7 +4,7 @@
 * 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
 * 🏢  &nbsp; Currently working as Dy. Manager in **5G Tech R&D at Reliance Jio**
 * 👨‍💻 &nbsp; Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
-* 📄 &nbsp; Check out my [Resume](./resume.pdf)
+* 📄 &nbsp; Check out my [Resume](./Resume.pdf)
 * 📷 &nbsp; I love Photography, Cricket, and Formula 1
 
 ### 🏆 &nbsp; Recent Achievements
