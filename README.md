@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Mihir Gandhi</h2> 👋,
+<h2 align="center">Hi, I'm Mihir Gandhi 👋,</h2> 
 
 ### 📖 About me
 * 🎓  I am a Computer Engineer with excellent academic background and diverse skillset
