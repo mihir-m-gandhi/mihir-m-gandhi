@@ -1,4 +1,4 @@
-h2 align="center">Hi 👋, I'm Mihir Gandhi</h2>
+<h2 align="center">Hi 👋, I'm Mihir Gandhi</h2>
 
 ### 📖 About me
 * 🎓 a Computer Engineer with excellent academic background and diverse skillset
@@ -13,14 +13,13 @@ h2 align="center">Hi 👋, I'm Mihir Gandhi</h2>
 * 📄 Check out my [Resume]()
 * ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
 
-### Recent Achievements 🏆
+### 🏆 Recent Achievements
 
 * 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
 * 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
 * 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** 3rd winner in SIA Track with project SmartMonitor
 * 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
 
----
 <p align="center">
 <b><i>Let's connect! Find me on the web.</i></b>  
 
