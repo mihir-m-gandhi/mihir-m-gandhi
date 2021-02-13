@@ -11,11 +11,8 @@
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
 
 
 
@@ -30,10 +27,6 @@
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
 - 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">and watch a lot Sci-Fi Movies🎬
 
@@ -54,22 +47,11 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - Anomaly Detection
 - Similarity Measure
 
- **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+
 
 **Recent Update**:
 - **July 2020**: Our paper [A new effective and efficient measure for outlying aspect mining](http://wasp.cs.vu.nl/WISE2020/accept.html) has been accepted at the 21st International Conference on Web Information Systems Engineering 2020 ([WISE 2020](http://wasp.cs.vu.nl/WISE2020/)).
-
-
-
-
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
-
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
 
 
 
