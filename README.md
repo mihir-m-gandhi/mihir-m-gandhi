@@ -1,15 +1,15 @@
 <h2 align="center">Hi, I'm Mihir Gandhi 👋</h2> 
 
-### 📖 About me
-* 🎓  I am a Computer Engineer with excellent academic background and diverse skillset
-* 🏢  Currently working as Dy. Manager in **5G Tech R&D at Reliance Jio**
-* 👨‍💻  Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
-* 📄 Check out my [Resume]()
-* 📷 I love Photography, Cricket, and Formula 1
+### 📖 &nbsp; About me
+* 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
+* 🏢  &nbsp; Currently working as Dy. Manager in **5G Tech R&D at Reliance Jio**
+* 👨‍💻 &nbsp; Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
+* 📄 &nbsp; Check out my [Resume]()
+* 📷 &nbsp; I love Photography, Cricket, and Formula 1
 
-### 🏆 Recent Achievements
+### 🏆 &nbsp; Recent Achievements
 
-* 📃 [Research Paper](https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on the project [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)**
+* [Research Paper](https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on the project [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)**
 * [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
 
 <br />
@@ -31,7 +31,7 @@
 <br />
 
 ---
-### 👨‍💻 Languages and Tools
+### 👨‍💻 &nbsp; Languages and Tools
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" />
@@ -118,7 +118,7 @@
 <br />
 
 ---
-### 📺 Latest YouTube Videos
+### 📺 &nbsp; Latest YouTube Videos
 
 <table>
   <tbody>
@@ -141,7 +141,7 @@
 <br />
 
 ---
-### &#x1f4c8; GitHub Stats
+### &#x1f4c8; &nbsp; GitHub Stats
 
 <p align="center">
   
