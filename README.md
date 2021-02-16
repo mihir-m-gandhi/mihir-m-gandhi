@@ -5,12 +5,12 @@
 * 🏢  &nbsp; Currently working as Deputy Manager in **5G Tech R&D at Reliance Jio**
 * 👨‍💻 &nbsp; Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
 * 📄 &nbsp; Check out my [Resume](./Resume.pdf)
-* 📷 &nbsp; I love Photography, Cricket, and Formula 1
+* 📷 &nbsp; My hobbies include Photography, Cricket, and Formula 1
 
 ### 🏆 &nbsp; Recent Achievements
 
-* [Research Paper](https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on the project [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)**
-* [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
+* [Research Paper](https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)**
+* [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) was showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
 
 <br />
 
@@ -99,9 +99,6 @@
   <!-- YOUTUBE:END -->
   </tbody>
 </table>
-
-
-<a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw?sub_confirmation=1"><img height="30" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
 
 ---
 ### &#x1f4c8; &nbsp; GitHub Stats
