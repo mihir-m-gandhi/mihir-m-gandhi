@@ -9,6 +9,7 @@
 
 ### 🏆 &nbsp; Recent Achievements
 
+*  My article **['Traffic Intersection Simulation using Pygame'](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a)** has been published in **[Towards Data Science](https://towardsdatascience.com/)**, one of the leading publications for Programming, Data Science, and Artificial Intelligence on Medium.
 * [Research Paper](https://drive.google.com/file/d/164j58YuMQMCqxh2Nld3oxoxCQxBsczKp/view?usp=sharing) based on [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) accepted for publication in **IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)**
 * [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) was showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
 
