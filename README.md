@@ -2,7 +2,7 @@
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Computer Engineer with excellent academic background and diverse skillset
-* 🏢  &nbsp; Currently working as Deputy Manager in **5G Tech R&D at Reliance Jio**
+* 🏢  &nbsp; Currently a Computer Science Graduate student at Georgia Institute of Technology**
 * 👨‍💻 &nbsp; Research Interests: `Computer Vision`, `Deep Learning`, `Blockchain`
 * 📄 &nbsp; Check out my [Resume](./Resume.pdf)
 * 📷 &nbsp; My hobbies include Photography, Cricket, and Formula 1
