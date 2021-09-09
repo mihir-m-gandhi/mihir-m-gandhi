@@ -127,11 +127,8 @@
 
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi?color=black&logo=github" />
-<img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" />
-<a href="https://github.com/mihir-m-gandhi">
-  
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+<a href="https://github.com/mihir-m-gandhi"><img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" /></a>
 
-<img height="25" src="https://badges.pufler.dev/commits/monthly/mihir-m-gandhi?color=blue" />
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/mihir-m-gandhi)](https://badges.pufler.dev)
 </a>
 </p>
