@@ -2,7 +2,7 @@
 
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Software Engineer with excellent academic background and diverse skillset
-* 🏢  &nbsp; Currently a Computer Science Graduate student at Georgia Institute of Technology**
+* 🏢  &nbsp; Currently a Computer Science Graduate student at **Georgia Institute of Technology**
 * 👨‍💻 &nbsp; Research Interests: `Computer Vision`, `Deep Learning`, `Data Science`
 * 📄 &nbsp; Check out my [Resume](./Resume.pdf)
 * 📷 &nbsp; My hobbies include Photography, Cricket, and Formula 1
