@@ -41,12 +41,11 @@
   <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="C++" width="40" height="40" title="C++"/>
  
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="Tensorflow" />
-  img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="Pytorch" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="Pytorch" />
   <img src="https://logodix.com/logo/2058787.png" alt="Pygame" width="40" height="40" title="Pygame" />
   
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" title="Spring" />
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" title="Kafka" />
-
   
   <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" title="Android"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/>
