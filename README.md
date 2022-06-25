@@ -95,7 +95,7 @@
       <td><a href="https://youtu.be/XGmRTsjJRN4">H&M Personalized Fashion Recommendation | Machine Learning Project</a><br/>April 28, 2022</td>
     </tr>
    <tr>
-      <td><a href="https://youtu.be/k2iPT3R_x0w"><img width="140px" src="https://i.ytimg.com/vi/k2iPT3R_x0w/maxresdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/k2iPT3R_x0w"><img width="140px" src="https://i.ytimg.com/vi/k2iPT3R_x0w/mqdefault.jpg"></a></td>
       <td><a href="https://youtu.be/k2iPT3R_x0w">Climate Change is Real! | Data Visualization Project</a><br/>Dec 15, 2021</td>
     </tr>
     <tr>
