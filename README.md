@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/mihir.mg/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/mihirgandhi7698/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mihirgandhi7698"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:mihir.mg@somaiya.edu.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:mihirgandhi0706@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp; 
   
 
