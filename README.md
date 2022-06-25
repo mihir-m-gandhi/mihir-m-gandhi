@@ -91,19 +91,19 @@
       <td><a href="https://youtu.be/p5d_lPTsd-4">Stopping the Spread - Peach Tree Disease</a><br/>May 12, 2022</td>
     </tr>
    <tr>
-      <td><a href="https://youtu.be/XGmRTsjJRN4"><img width="140px" src="https://i.ytimg.com/vi/XGmRTsjJRN4/mqdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/XGmRTsjJRN4"><img width="200px" src="https://i.ytimg.com/vi/XGmRTsjJRN4/mqdefault.jpg"></a></td>
       <td><a href="https://youtu.be/XGmRTsjJRN4">H&M Personalized Fashion Recommendation | Machine Learning Project</a><br/>April 28, 2022</td>
     </tr>
    <tr>
-      <td><a href="https://youtu.be/k2iPT3R_x0w"><img width="140px" src="https://i.ytimg.com/vi/k2iPT3R_x0w/mqdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/k2iPT3R_x0w"><img width="200px" src="https://i.ytimg.com/vi/k2iPT3R_x0w/mqdefault.jpg"></a></td>
       <td><a href="https://youtu.be/k2iPT3R_x0w">Climate Change is Real! | Data Visualization Project</a><br/>Dec 15, 2021</td>
     </tr>
     <tr>
-      <td><a href="https://youtu.be/kDrJEgj7FdY"><img width="140px" src="https://i.ytimg.com/vi/kDrJEgj7FdY/mqdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/kDrJEgj7FdY"><img width="200px" src="https://i.ytimg.com/vi/kDrJEgj7FdY/mqdefault.jpg"></a></td>
       <td><a href="https://youtu.be/kDrJEgj7FdY">Medicyl - Decentralized Health Record Management (SIH 2020)</a><br/>Feb 4, 2021</td>
     </tr>
     <tr>
-      <td><a href="https://youtu.be/OssY5pzOyo0"><img width="140px" src="https://i.ytimg.com/vi/OssY5pzOyo0/mqdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/OssY5pzOyo0"><img width="200px" src="https://i.ytimg.com/vi/OssY5pzOyo0/mqdefault.jpg"></a></td>
       <td><a href="https://youtu.be/OssY5pzOyo0">Smart Control of Traffic Light System using Artificial Intelligence</a><br/>May 25, 2020</td>
     </tr>
   <!-- YOUTUBE:END -->
