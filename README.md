@@ -91,7 +91,7 @@
       <td><a href="https://youtu.be/p5d_lPTsd-4">Stopping the Spread - Peach Tree Disease</a><br/>May 12, 2022</td>
     </tr>
    <tr>
-      <td><a href="https://youtu.be/XGmRTsjJRN4"><img width="140px" src="https://i.ytimg.com/vi/XGmRTsjJRN4/maxresdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/XGmRTsjJRN4"><img width="140px" src="https://i.ytimg.com/vi/XGmRTsjJRN4/mqdefault.jpg"></a></td>
       <td><a href="https://youtu.be/XGmRTsjJRN4">H&M Personalized Fashion Recommendation | Machine Learning Project</a><br/>April 28, 2022</td>
     </tr>
    <tr>
