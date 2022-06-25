@@ -87,7 +87,7 @@
   <tbody>
     <!-- YOUTUBE:START -->
    <tr>
-      <td><a href="https://youtu.be/p5d_lPTsd-4"><img width="140px" src="https://img.youtube.com/vi/p5d_lPTsd-4/maxresdefault.jpg"></a></td>
+      <td><a href="https://youtu.be/p5d_lPTsd-4"><img width="200px" src="https://img.youtube.com/vi/p5d_lPTsd-4/maxresdefault.jpg"></a></td>
       <td><a href="https://youtu.be/p5d_lPTsd-4">Stopping the Spread - Peach Tree Disease</a><br/>May 12, 2022</td>
     </tr>
    <tr>
