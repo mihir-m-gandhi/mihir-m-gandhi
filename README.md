@@ -153,6 +153,4 @@
 <img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi?color=black&logo=github" />
  &nbsp; &nbsp;
 <a href="https://github.com/mihir-m-gandhi"><img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" /></a>
-
-</a>
 </p>
