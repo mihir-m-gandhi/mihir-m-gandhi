@@ -9,7 +9,9 @@
 
 ### 🏆 &nbsp; Recent Achievements
 
-*  My article **['Traffic Intersection Simulation using Pygame'](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a)** has been published in **[Towards Data Science](https://towardsdatascience.com/)**, one of the leading publications for Programming, Data Science, and Artificial Intelligence on Medium. Featured on the **Editor's Pick** page.
+* Joined BlackRock as a Summer Analyst (SWE)
+* Research Paper based on [Sign Language Recognition using CNN](https://github.com/mihir-m-gandhi/Sign-Language-Recognition) was presented at **5th International Conference on Advances in Computing and Data Science - ICACDS 2021** and published in Advances in Computing and Data Sciences. View the paper [here](https://link.springer.com/book/10.1007/978-3-030-81462-5).
+*  My article **['Traffic Intersection Simulation using Pygame'](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a)** has been published in **[Towards Data Science](https://towardsdatascience.com/)**, one of the leading publications for Programming, Data Science, and Artificial Intelligence on Medium. Featured on the **Editor's Pick** page with over 25k views to date.
 * Research Paper based on [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) was presented at **5th IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)** and published in IEEE Xplore. View the paper [here](https://ieeexplore.ieee.org/document/9358334).
 * [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) was showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
 
@@ -21,7 +23,6 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/mihir-m-gandhi/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white""></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/mihir.mg/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/mihirgandhi7698/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mihirgandhi7698"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:mihirgandhi0706@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCN_cgHfyW8rhOn7O3JGpRjw"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp; 
