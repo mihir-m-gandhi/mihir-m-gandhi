@@ -150,7 +150,7 @@
 <br />
 
 <p align=center>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mihir-m-gandhi.visitor-badge)
+![Visits](https://komarev.com/ghpvc/?username=mihir-m-gandhi)
  &nbsp; &nbsp;
 <a href="https://github.com/mihir-m-gandhi"><img height="25" src="https://komarev.com/ghpvc/?username=mihir-m-gandhi&color=brightgreen" /></a>
 </p>
