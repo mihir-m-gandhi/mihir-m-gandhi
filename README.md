@@ -150,5 +150,5 @@
 <br />
 
 <p align=center>
- <a href="https://github.com/mihir-m-gandhi"><img height="20" src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi" /></a> 
+ <a href="https://github.com/mihir-m-gandhi"><img height="25" src="https://badges.pufler.dev/visits/mihir-m-gandhi/mihir-m-gandhi" /></a> 
 </p>
