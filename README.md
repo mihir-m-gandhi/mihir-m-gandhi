@@ -75,7 +75,6 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40" title="Visual Studio Code" />
   <img src="https://img.icons8.com/ios/452/selenium-test-automation.png" alt="selenium" width="40" height="40" title="Selenium" />
   
-  <img src="https://icons-for-free.com/iconfiles/png/512/desktop+microsoft+os+screen+technology+windows+icon-1320192780138264654.png" alt="windows" width="40" height="40" title="Windows OS" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title="Linux OS" />
   <img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png" alt="mac" width="40" height="40" title="macOS" />
 
